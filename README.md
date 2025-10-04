@@ -1,6 +1,7 @@
 ## Greetings, Wanderer 👋 I’m Musa
 
 ## 🕸️ About Me
+🌌 Co-Founder at [Otukenverse](https://otukenverse.com/)<br><br>
 🩸 I’m currently working on software projects & personal ventures<br>🧛 I’m looking to collaborate on creative ideas<br>🧠 I’m currently learning AI, automation & problem solving<br>🐺 Ask me about software, entrepreneurship & self-growth<br>🌑 Fun fact: Curiosity is my biggest fuel for growth
 
 ## ⚔️ Socials
