@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=9C27B0&center=false&vCenter=true&width=500&lines=Greetings,+Wanderer+👋+I'm+Musa&random=1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=25&pause=1000&color=9C27B0&center=false&vCenter=true&width=500&lines=Greetings,+Wanderer+%F0%9F%91%8B+I'm+Musa" alt="Typing SVG" />
 </p>
 
 ## 🕸️ About Me
