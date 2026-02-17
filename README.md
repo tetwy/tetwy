@@ -1,5 +1,11 @@
 ## Greetings, Wanderer 👋 I’m Musa
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9C27B0&center=true&vCenter=true&width=435&lines=Hi,+I'm+Musa!;Software+Enthusiast+%26+Learner;Turning+impossible+into+reality;React+%7C+TypeScript+%7C+Git" alt="Typing SVG" />
+  </a>
+</p>
+
 ## 🕸️ About Me
 Co-Founder at [Otukenverse](https://otukenverse.com/)<br>
 
