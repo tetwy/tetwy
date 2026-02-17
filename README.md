@@ -1,6 +1,4 @@
-## Greetings, Wanderer 👋 I’m Musa
-
-## <p align="left">
+<p align="left">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=9C27B0&center=false&vCenter=true&width=500&lines=Greetings,+Wanderer+👋+I'm+Musa" alt="Typing SVG" />
   </a>
