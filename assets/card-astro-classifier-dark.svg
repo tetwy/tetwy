@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="450" height="152" viewBox="0 0 450 152" role="img" aria-labelledby="t">
+<title id="t">Astro Classifier: Finds and classifies objects in deep-space photos</title>
+<style>text{font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif;}</style>
+<rect x="5.5" y="5.5" width="439" height="141" rx="12" fill="none" stroke="#3d444d"/>
+<text x="29" y="49" font-size="20" font-weight="600" letter-spacing="-0.3" fill="#f0f6fc">Astro Classifier</text>
+<path d="M407 49L421 35M411 35H421V45" fill="none" stroke="#656c76" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="29" y="81" font-size="15" fill="#9198a1">Finds and classifies objects in deep-space photos</text>
+<rect x="29.5" y="99.5" width="58.4" height="23" rx="11.5" fill="none" stroke="#3d444d"/>
+<text x="58.7" y="115" font-size="12" text-anchor="middle" fill="#9198a1">Python</text>
+<rect x="94.9" y="99.5" width="67.0" height="23" rx="11.5" fill="none" stroke="#3d444d"/>
+<text x="128.4" y="115" font-size="12" text-anchor="middle" fill="#9198a1">OpenCV</text>
+<rect x="168.9" y="99.5" width="78.5" height="23" rx="11.5" fill="none" stroke="#3d444d"/>
+<text x="208.1" y="115" font-size="12" text-anchor="middle" fill="#9198a1">scikit-learn</text>
+<rect x="254.4" y="99.5" width="49.7" height="23" rx="11.5" fill="none" stroke="#3d444d"/>
+<text x="279.2" y="115" font-size="12" text-anchor="middle" fill="#9198a1">Flask</text>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="450" height="152" viewBox="0 0 450 152" role="img" aria-labelledby="t">
+<title id="t">crewve: Money, meals, workouts and habits in one place</title>
+<style>text{font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif;}</style>
+<rect x="5.5" y="5.5" width="439" height="141" rx="12" fill="none" stroke="#3d444d"/>
+<text x="29" y="49" font-size="20" font-weight="600" letter-spacing="-0.3" fill="#f0f6fc">crewve</text>
+<path d="M407 49L421 35M411 35H421V45" fill="none" stroke="#656c76" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="29" y="81" font-size="15" fill="#9198a1">Money, meals, workouts and habits in one place</text>
+<rect x="29.5" y="99.5" width="57.7" height="23" rx="11.5" fill="none" stroke="#3d444d"/>
+<text x="58.3" y="115" font-size="12" text-anchor="middle" fill="#9198a1">Next.js</text>
+<rect x="94.2" y="99.5" width="77.7" height="23" rx="11.5" fill="none" stroke="#3d444d"/>
+<text x="133.0" y="115" font-size="12" text-anchor="middle" fill="#9198a1">TypeScript</text>
+<rect x="178.9" y="99.5" width="75.0" height="23" rx="11.5" fill="none" stroke="#3d444d"/>
+<text x="216.4" y="115" font-size="12" text-anchor="middle" fill="#9198a1">Supabase</text>
+<rect x="260.9" y="99.5" width="70.4" height="23" rx="11.5" fill="none" stroke="#3d444d"/>
+<text x="296.1" y="115" font-size="12" text-anchor="middle" fill="#9198a1">Telegram</text>
+</svg>
