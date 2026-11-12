@@ -1,24 +1,85 @@
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=25&pause=1000&color=9C27B0&center=false&vCenter=true&width=500&lines=Greetings,+Wanderer+%F0%9F%91%8B+I'm+Musa" alt="Typing SVG" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
+  <img alt="Musa Agdag. Full-stack developer building products end to end." src="assets/header-light.svg" width="100%">
+</picture>
 
-## 🕸️ About Me
-For me, coding isn't just a job—it's a craft and a lifelong hobby. I’m a continuous learner dedicated to building with precision and care. I believe success is rooted in empathy and trust. I turn "impossible" ideas into reality, and I'm always open to collaborating on visionary projects. Let’s connect!
+I design and build software end to end: Rust services and Discord bots on the backend, React and Next.js on the frontend, Supabase and SQL underneath. AI is part of my everyday toolchain; the architecture, the tests and what goes to production stay my responsibility.
 
-## 🔗 Links
-[![Kişisel site](https://img.shields.io/badge/Ki%C5%9Fisel%20site-9C27B0?style=for-the-badge&logo=googlechrome&logoColor=white)](https://musagdg.com)
+**Now:** growing Duel Arena from two games into a platform for many real-time party games.
 
-## 💻 Tech Stack
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+## Selected work
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Sanity](https://img.shields.io/badge/sanity-F03E2F?style=for-the-badge&logo=sanity&logoColor=white)
+<table>
+<tr>
+<td width="50%" valign="top">
 
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+### [tetbot](https://github.com/tetwy/tetbot-showcase)
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=white)
+A Discord bot in Rust that gives a server its own world: voice-time levels, a virtual economy with banking and a stock market, mini games played with virtual coins (no real money), creature hunting and a radio.
 
-## 🚀 Featured Projects
-- [**tetbot**](https://github.com/tetwy/tetbot-showcase) (Rust): a Discord bot that turns a server into a small world of its own. Voice-time levels with rank cards, a virtual economy with banking and stock markets, mini-games played with virtual coins (card and luck themed) — no real money involved, creature hunting with 3v3 arena battles, and a radio. Backed by CI, Docker and a rollback-safe deploy flow.
-- [**crewve**](https://github.com/tetwy/crewve-showcase) (Next.js + Supabase): one dashboard for finances, meals, workouts, habits, notes and calendar. Log entries on the web or text a Telegram bot in plain language; it files them for you after your confirmation.
-- [**duel-arena-games**](https://github.com/tetwy/duel-arena-games) ([live demo](https://duel-arena-games-728r.vercel.app/#/portal)) (React + Vite + Supabase): a multiplayer party-game platform. Play real-time word games like Veto and Harfbaz with friends in one portal, with more games, accounts and a shared backend on the roadmap.
-- [**astro-siniflandirici**](https://github.com/tetwy/astro-siniflandirici) (Flask + React): classifies deep-space photos with a star detector built on OpenCV and a scikit-learn model, served through a React interface.
+`Rust` `Serenity` `Poise` `Songbird` `SQLite` `Docker`
+
+[Showcase](https://github.com/tetwy/tetbot-showcase)
+
+</td>
+<td width="50%" valign="top">
+
+### [Duel Arena](https://github.com/tetwy/duel-arena-games)
+
+A real-time multiplayer party game platform: open a room, share the link, play. Starts with Veto, a Taboo-style word duel, and Harfbaz, a fast category word race.
+
+`React` `TypeScript` `Vite` `Tailwind CSS` `Supabase`
+
+[Live demo](https://duel-arena-games-728r.vercel.app) &nbsp;·&nbsp; [Repository](https://github.com/tetwy/duel-arena-games)
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [crewve](https://github.com/tetwy/crewve-showcase)
+
+One dashboard for money, meals, workouts and habits. Log entries on the web, or text a Telegram bot in plain language and confirm before anything is saved.
+
+`Next.js` `React` `TypeScript` `Supabase` `Tailwind CSS` `Telegram Bot API`
+
+[Showcase](https://github.com/tetwy/crewve-showcase)
+
+</td>
+<td width="50%" valign="top">
+
+### [Astro Classifier](https://github.com/tetwy/astro-siniflandirici)
+
+Finds objects in deep-space photos with an OpenCV detector and sorts them into six classes, such as star, galaxy and nebula, with a trained random forest model.
+
+`Python` `Flask` `OpenCV` `scikit-learn` `React` `TypeScript`
+
+[Repository](https://github.com/tetwy/astro-siniflandirici)
+
+</td>
+</tr>
+</table>
+
+Also: [Compiled Studios](https://compiled-studios.vercel.app), the website of an indie game studio and its first title, How to Pirate, a physics-driven co-op adventure for 2 to 4 players. Built with React, Vite and Tailwind CSS.
+
+## Toolbox
+
+| Area | Tools |
+| :--- | :--- |
+| Languages | TypeScript, Rust, Python, C#, SQL |
+| Frontend | React, Next.js, Vite, Tailwind CSS, shadcn/ui, Framer Motion, TanStack Query |
+| Backend and data | Supabase (Postgres, Auth, RLS, Realtime), SQLite, Axum, Tokio, Flask, Express, Sanity |
+| Bots and integrations | Serenity, Poise, Songbird, Telegram Bot API |
+| AI and ML | scikit-learn, OpenCV, pandas, LLM APIs (Groq, Gemini) |
+| Game development | Unity |
+| DevOps and cloud | Docker, GitHub Actions, Vercel, Netlify, Linux and systemd, Prometheus metrics |
+
+## Contact
+
+[musagdg.com](https://musagdg.com) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/musa-agdag-0313052bb/)
+
+Open to collaborating on products that need to be built from idea to launch.
