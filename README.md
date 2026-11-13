@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/banner.png" alt="Musa Agdag, full-stack developer: bots, games and web apps" width="100%"></p>
+<p align="center"><img src="assets/banner-youtube.png" alt="Musa Agdag, full-stack developer: bots, games and web apps" width="100%"></p>
 
 <p>
 <a href="https://github.com/tetwy/tetbot-showcase"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-tetbot-dark.svg"><img alt="tetbot: Discord bot with levels, economy and radio. Rust, Serenity, Songbird, SQLite" src="assets/card-tetbot-light.svg" width="49%"></picture></a>
@@ -8,11 +8,15 @@
 <a href="https://github.com/tetwy/astro-siniflandirici"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-astro-classifier-dark.svg"><img alt="Astro Classifier: finds and classifies objects in deep-space photos. Python, OpenCV, scikit-learn, Flask" src="assets/card-astro-classifier-light.svg" width="49%"></picture></a>
 </p>
 
+<p>
+<a href="https://www.youtube.com/@tetwyai"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/youtube-card-dark.svg"><img alt="YouTube: @tetwyai" src="assets/youtube-card-light.svg" width="98.5%"></picture></a>
+</p>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
   <img alt="Stack: TypeScript, Rust, Python, C#, React, Next.js, Tailwind, Supabase, SQLite, Docker, Unity, Vercel" src="assets/stack-light.svg" width="100%">
 </picture>
 
 <p>
-<a href="https://musagdg.com">musagdg.com</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/musa-agdag-0313052bb/">LinkedIn</a>
+<a href="https://musagdg.com">musagdg.com</a> &nbsp;&middot;&nbsp; <a href="https://www.linkedin.com/in/musa-agdag-0313052bb/">LinkedIn</a> &nbsp;&middot;&nbsp; <a href="https://www.youtube.com/@tetwyai">YouTube</a>
 </p>
