@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/banner.png" alt="Musa Agdag, full-stack developer: bots, games and web apps" width="100%"></p>
+
 <p>
 <a href="https://github.com/tetwy/tetbot-showcase"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-tetbot-dark.svg"><img alt="tetbot: Discord bot with levels, economy and radio. Rust, Serenity, Songbird, SQLite" src="assets/card-tetbot-light.svg" width="49%"></picture></a>
 <a href="https://duel-arena-games-728r.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-duel-arena-dark.svg"><img alt="Duel Arena: real-time multiplayer party games in the browser. React, TypeScript, Supabase" src="assets/card-duel-arena-light.svg" width="49%"></picture></a>
