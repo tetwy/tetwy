@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/banner-youtube.png" alt="Musa Agdag, full-stack developer: bots, games and web apps" width="100%"></p>
+<p><img src="assets/banner-youtube-padded.png" alt="Musa Agdag, full-stack developer: bots, games and web apps" width="98.5%"></p>
 
 <p>
 <a href="https://github.com/tetwy/tetbot-showcase"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-tetbot-dark.svg"><img alt="tetbot: Discord bot with levels, economy and radio. Rust, Serenity, Songbird, SQLite" src="assets/card-tetbot-light.svg" width="49%"></picture></a>
